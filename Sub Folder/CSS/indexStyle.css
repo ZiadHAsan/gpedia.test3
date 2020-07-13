@@ -1,0 +1,50 @@
+body { 
+		background-image: url(background.jpg);
+		background-size:cover;
+		color: #dadaa7;
+		
+	 }    
+.main{  border: 4px solid rgba(158, 240, 240, .45);
+		margin: 10px;
+		 }
+p{
+	color: #dadaa7;
+	text-align: center;
+	font-family: 'Josefin Slab', serif;
+	font-size: 2rem;
+}
+hr { 
+		border-color: #283590;
+	}		 
+h1 	{ 	font-family: 'Bitter', serif;
+		text-align: center;
+		color:#ECE3EE;
+		  	  }
+h6 	{ 	font-family: 'Bitter', serif;
+		text-align: center;
+		color:#ECE3EE;
+		  	  }		  	  
+		  	  
+h3 	{ 	font-family: 'Bitter', serif;
+		text-align: center;
+		color:#f17979; }
+	}	
+.pra 	{ 
+	}
+
+.boxes {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+img{
+	margin: 30px;
+	width: 576px;
+	height: 300px;
+	transition: all 1s;
+	border-radius: 2rem;
+}
+img:hover {
+	transform: scale(1.08);
+	}
+
